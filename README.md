@@ -1,4 +1,4 @@
-# 4clojure-solutions-acrhive
+# 4clojure-solutions-archive
 
 4clojure.com solutions and problems archive made available by @amalloy
 
